@@ -1,3 +1,3 @@
 # NumberGuessingGame
-My first Repository
+My first Repository.
 Author - Priyanshu Banik
